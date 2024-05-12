@@ -23,14 +23,8 @@ This project follows a multi-modular clean architecture approach, each module di
 - **Domain Layer:** Contains business logic and use cases of the application.
 - **Data Layer:** Manages data operations and provides data to the upper layers.
 
-Each layer is implemented as a separate module to ensure separation of concerns and ease of testing.
-
 ## Getting Started
 To get a local copy up and running follow these simple steps.
-
-### Prerequisites
-- Android Studio Arctic Fox | 2020.3.1 or higher
-- Min SDK version 21
 
 ### Installation
 1. Clone the repo
